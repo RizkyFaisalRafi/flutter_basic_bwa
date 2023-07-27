@@ -1,16 +1,9 @@
 # flutter_basic
 
-A new Flutter project.
+## Flutter Basic From Dart & Flutter Development Bootcamp: Find House App
 
-## Getting Started
+- [Link UI KIT](https://shaynakit.com/details/exploration-profile-picker)
 
-This project is a starting point for a Flutter application.
+## Documentation
+![documentation_exploration-profile-picker](https://github.com/RizkyFaisalRafi/flutter_basic_bwa/assets/87520408/d49d002a-21e0-4357-80b4-bd93a6247efe)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
